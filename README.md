@@ -1,4 +1,4 @@
-# Basics-Statistics-
+# Basics-Statistics- Assignment
 Activity	Data Type
 Number of beatings from Wife	
 Results of rolling a dice	
